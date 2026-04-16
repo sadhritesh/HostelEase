@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\HostelEase.UI\HostelEase.UI.csproj" />
+  </ItemGroup>
+
 </Project>
